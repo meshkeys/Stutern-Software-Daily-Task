@@ -3,10 +3,20 @@
 3.https://docs.google.com/document/d/1FXTvPRk0BhU1qpoYBnxbifH8zcJnSKJCGBXpSpS6nig/edit?usp=sharing
 4.https://docs.google.com/document/d/1VmKRe2h40wnbXxLbLibHTwbyQlgNw0PkxPlq4xyGMaM/edit?usp=sharing
 5.https://docs.google.com/document/d/16IXvMiC-r16kYzfia2NpXSZmVLlVhelHUBIzdeoe5bg/edit?usp=sharing
-6.https://repl.it/@meshkeys/stutern-software-engineering-dialy-task-patterns
-7.https://repl.it/@meshkeys/stutern-software-engineering-dialy-task
-8.https://repl.it/@meshkeys/stutern-software-engineering-dialy-task
-9.https://repl.it/@meshkeys/stutern-software-engineering-dialy-task
-10.https://repl.it/@meshkeys/stutern-software-engineering-dialy-task
-11.https://repl.it/@meshkeys/Software-engineering-task
-12.https://repl.it/@meshkeys/stutern-software-engineering-dialy-task-nintendo
+6.https://repl.it/@meshkeys/stutern-software-engineering-dialy-task-nintendo
+7.https://repl.it/@meshkeys/Software-engineering-task-a-function-showing-largest-number
+8.https://repl.it/@meshkeys/stutern-software-engineering-dialy-task-function-that-takes number as an argument
+9.https://repl.it/@meshkeys/stutern-software-engineering-function-that-picks-specific-character from a string
+10.https://repl.it/@meshkeys/stutern-software-engineering-using-for-loop-to-create-pattern
+11.https://repl.it/@meshkeys/function-call
+12.https://repl.it/@meshkeys/software-engineering-dialy-tasks-function-for-clock
+13.https://repl.it/@meshkeys/stutern-software-engineering-validating-true-json
+14.https://repl.it/@meshkeys/stutern-software-engineering-task-call-all-properties
+15.https://repl.it/@meshkeys/stutern-software-engineering-task-function-for-bmi
+16.https://repl.it/@meshkeys/stutern-software-engineering-dialy-task-string-to-array
+17.https://repl.it/@meshkeys/stutern-software-engineering-dialy-task-string-to-array
+18.https://repl.it/@meshkeys/software-engineering-dialy-task-words-to-number-function
+19.https://repl.it/@meshkeys/stutern-daily-task-query-to-add-document
+20.https://repl.it/@meshkeys/daily-task-statements-to-get-documents-with-similar-title
+21.https://repl.it/@meshkeys/stutern-daily-task-query-for-doc-more-or-less-than
+22.https://repl.it/@meshkeys/stutern-daily-task-bulkwrite-request-to-find-and-insert
